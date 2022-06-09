@@ -1,0 +1,17 @@
+body {
+	background: #191919;
+}
+
+body>div {
+	margin-top: 8px;
+	display: flex;
+}
+
+body>div>div {
+	height: 40px;
+	width: 40px;
+	margin-top: 12px;
+	margin-left: 20px;
+	border-radius: 100%;
+	background: #F6E59C;
+}
